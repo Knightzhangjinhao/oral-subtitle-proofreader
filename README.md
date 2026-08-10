@@ -107,10 +107,10 @@ SKILL.md
 
 ### 调用方式
 
-在处理字幕时，直接说：
+跟你的AI说
+请打开这个 GitHub 仓库：
 
-```text
-请用口播字幕校对 Skill 处理下面内容。
-```
+https://github.com/Knightzhangjinhao/oral-subtitle-proofreader
 
-然后按“推荐使用方式”里的模板粘贴录音转写稿、原始脚本和专有名词表即可。
+读取里面的 SKILL.md，把它作为“口播字幕校对”的长期提示词保存。以后当我说“用口播字幕校对 Skill 处理”时，请按 SKILL.md 的规则执行。
+
