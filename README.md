@@ -92,10 +92,4 @@ TXT 或 SRT，不填则默认 TXT。
 - 行尾一般不加句号或逗号
 - 无法确认的词使用 `【疑似：XXX】` 标记
 
-## 安装方式
 
-将 Skill 文件放到项目的以下位置：
-
-```text
-.trae/skills/koubo-subtitle-proofreader/SKILL.md
-```
